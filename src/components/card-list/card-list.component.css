@@ -1,0 +1,12 @@
+.card-list{
+    width : 85vw;
+    margin:0 auto;
+    display:grid;
+    justify-content: center;
+    grid-template-columns: auto auto auto auto;
+    grid-gap:3vw 1vw;
+
+/* you can use auto or fr stands for fractions */
+}
+
+
